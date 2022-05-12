@@ -124,7 +124,6 @@ class DataStracture(object):
 
         return output
 
-
     def generate(numRows):
         """
         :type numRows: int
@@ -141,6 +140,7 @@ class DataStracture(object):
             row.append(1)
             output.append(row)
         return output
+#day 5
 
 def tester():
     #day 1
